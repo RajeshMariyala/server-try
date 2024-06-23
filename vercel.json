@@ -1,0 +1,10 @@
+{
+    "version": 2,
+    "builds": [
+      { "src": "index.js", "use": "@vercel/node" }
+    ],
+    "env": {
+      "MONGODB_URI": "mongodb+srv://rajeshmariyala3:bGZepseVie3KFOyp@server.0gjzbfm.mongodb.net/?retryWrites=true&w=majority&appName=server"
+    }
+  }
+  
